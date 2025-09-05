@@ -19,6 +19,7 @@ export default function App() {
   );
 }
 
+//comentario aleatorio
 function Header({ pagina, setPagina }) {
   return (
     <View style={styles.header}>
